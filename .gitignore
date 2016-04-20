@@ -46,6 +46,9 @@ nosetests.xml
 coverage.xml
 *,cover
 .hypothesis/
+.python-version
+pip-selfcheck.json
+pyvenv.cfg
 
 # Translations
 *.mo
